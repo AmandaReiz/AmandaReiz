@@ -25,11 +25,11 @@ Tenho experiência com <strong>Java</strong> e sigo avançando na linguagem, me 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,java,c,cpp)](https://skillicons.dev)
 
 ---
-
+<!--
 ### 🚀 Frameworks e Bibliotecas
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,spring,mysql,postgres)](https://skillicons.dev)
-
+-->
 ---
 
 ### 🛠️ Ferramentas de Desenvolvimento
