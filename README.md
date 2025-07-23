@@ -34,7 +34,7 @@ Tenho experiência com <strong>Java</strong> e sigo avançando na linguagem, me 
 
 ### 🛠️ Ferramentas de Desenvolvimento
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,photoshop,vscode,eclipse)](https://skillicons.dev)
 
 ---
 
