@@ -10,10 +10,8 @@
      style="margin-left: 20px; margin-top: 10px;"/>
 
 <p align="left"> 
-  Sou formada em <strong>Técnico de informática</strong> pela ETERJ e atualmente cursando o curso de <strong>Desenvolvimento e Analise de Sistemas</strong> na UNISUAM. <br><br>
-  
-  <p align="left"> Atualmente, estou me aprofundando em <strong>HTML5</strong> e <strong>CSS3</strong>, buscando uma base sólida em desenvolvimento web. Em seguida, meu foco será dominar <strong>JavaScript</strong> de forma mais avançada, com o objetivo de evoluir futuramente para bibliotecas e frameworks como <strong>React.js</strong>. <br><br>
-Tenho experiência com <strong>Java</strong> e sigo avançando na linguagem, me preparando para entrar na parte de frameworks como <strong>Spring Boot</strong>. 
+  Fiz ensino médio <strong>Técnico de informática</strong> na ETERJ e atualmente cursando o curso de <strong>Análises e Desenvolvimento de Sistemas</strong> pela UNISUAM. <br>
+  <p align="left">Tenho experiência com <strong>Java</strong> e sigo avançando na linguagem, me preparando para entrar na parte de frameworks como <strong>Spring Boot</strong>. 
   
   Acredito que <strong>aprender construindo</strong> é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
 </p>
@@ -22,27 +20,28 @@ Tenho experiência com <strong>Java</strong> e sigo avançando na linguagem, me 
 
 ## 💻 Tecnologias e Linguagens
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,java,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,python)](https://skillicons.dev)
 
 ---
-<!--
+
 ### 🚀 Frameworks e Bibliotecas
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,spring,mysql,postgres)](https://skillicons.dev)
--->
+[![My Skills](https://skillicons.dev/icons?i=spring,mysql)](https://skillicons.dev)
+
 ---
 
 ### 🛠️ Ferramentas de Desenvolvimento
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,photoshop,vscode,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,intellij)](https://skillicons.dev)
 
 ---
 
 ### 🌐 Redes Sociais
 
-<a href="https://www.youtube.com/@AmandaStudies" target="_blank">
+<!--<a href="https://www.youtube.com/@AmandaStudies" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
-</a>
+</a> -->
+
 <a href="https://www.linkedin.com/in/amanda-reis-b43aa8349/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
