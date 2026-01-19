@@ -25,7 +25,7 @@
 
 ### 🚀 Frameworks e Bibliotecas
 
-[![My Skills](https://skillicons.dev/icons?i=spring,mysql,mongodb,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,mysql,mongodb,express,angular)](https://skillicons.dev)
 
 ---
 
