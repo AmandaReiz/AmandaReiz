@@ -11,7 +11,6 @@
 
 <p align="left"> 
   Fiz ensino médio <strong>Técnico de informática</strong> na ETERJ e atualmente cursando o curso de <strong>Análises e Desenvolvimento de Sistemas</strong> pela UNISUAM. <br>
-  <p align="left">Tenho experiência com <strong>Java</strong> e sigo avançando na linguagem, me preparando para entrar na parte de frameworks como <strong>Spring Boot</strong>. 
   
   Acredito que <strong>aprender construindo</strong> é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
 </p>
@@ -20,13 +19,13 @@
 
 ## 💻 Tecnologias e Linguagens
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,typescript,javascript,java,python)](https://skillicons.dev)
 
 ---
 
 ### 🚀 Frameworks e Bibliotecas
 
-[![My Skills](https://skillicons.dev/icons?i=spring,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,mysql,mongodb)](https://skillicons.dev)
 
 ---
 
