@@ -1,8 +1,8 @@
 # Olá, eu sou Amanda Reis! 👋
 
 <p>
-👩‍💻 <strong>Software Developer | ADS Student | English C2</strong><br>
-Focada em construir soluções eficientes e apaixonada pela arquitetura do ecossistema JavaScript.
+👩‍💻 <strong>Backend Java Developer | Fullstack Knowledge | ADS Student | English C2</strong><br>
+Focada em construir soluções eficientes, APIs bem estruturadas e sistemas integrados com tecnologias modernas.
 </p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
@@ -14,14 +14,30 @@ Focada em construir soluções eficientes e apaixonada pela arquitetura do ecoss
 <p align="left"> 
   Formada como <strong>Técnica em Informática</strong> pela <strong>ETERJ</strong> e atualmente graduanda em <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>UNISUAM</strong>. 🎓
   <br><br>
-  Minha trajetória é baseada no conceito de <strong>"Aprender Construindo"</strong>: transformo desafios lógicos em interfaces modernas e funcionais. Tenho forte domínio em lógica de programação e estou aprofundando meus estudos em arquitetura de sistemas e escalabilidade. 🚀
+  Minha trajetória é baseada no conceito de <strong>"Aprender Construindo"</strong>: transformo desafios lógicos em soluções claras, funcionais e bem estruturadas. Tenho foco em <strong>backend Java</strong>, com domínio fullstack para criar APIs, integrar sistemas e conectar serviços a interfaces modernas. 🚀
 </p>
 
 ---
 
+## 🎯 O que estou buscando
+- Estágio em desenvolvimento de software, com foco em <strong>backend Java</strong>.
+- Oportunidades presenciais, híbridas ou remotas.
+- Times onde eu possa aprender, contribuir com responsabilidade e evoluir em projetos reais.
+
+---
+
 ## 🌎 Global Communication
-- **English Level:** C2 (Proficient/Fluent) - CNA Conclusion 2018.
+- **English Level:** C2 (Proficient/Fluent) - CNA.
 - Capaz de atuar em times internacionais e consumir documentação técnica nativa.
+
+---
+
+## 🧩 Projetos em destaque
+- **PulseNotify:** sistema de notificações em tempo real com Java, Spring Boot, WebSocket, Redis, Docker e React.
+- **Gerador de Dietas:** aplicação Spring Boot com Java, HTML, CSS, JavaScript, Spring Web e OpenFeign.
+- **API de Controle de Estoque:** API REST com Node.js, Express, MySQL, Swagger, JWT e deploy no Render.
+
+🔗 **Portfólio:** https://portifolio-amandareis.vercel.app
 
 ---
 
@@ -34,22 +50,30 @@ Focada em construir soluções eficientes e apaixonada pela arquitetura do ecoss
 ---
 
 ## 💻 Tecnologias e Linguagens
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,python)](https://skillicons.dev)
 
 ---
 
 ### 🚀 Frameworks e Bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=react,express,spring,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,react,nodejs,express,angular,tailwind)](https://skillicons.dev)
+
+---
+
+### 🗄️ Dados, Cache e Infraestrutura
+[![My Skills](https://skillicons.dev/icons?i=mysql,redis,docker)](https://skillicons.dev)
 
 ---
 
 ### 🛠️ Ferramentas de Desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,intellij,nodejs,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,intellij,npm,postman)](https://skillicons.dev)
 
 ---
 
 ### 🌐 Conecte-se comigo
 <div align="left">
+<a href="https://portifolio-amandareis.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-7C3AED.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
+</a>
 <a href="https://www.linkedin.com/in/amanda-reis-dev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
