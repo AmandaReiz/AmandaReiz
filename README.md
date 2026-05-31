@@ -1,76 +1,93 @@
-# Olá, eu sou Amanda Reis! 👋
+<div align="center">
 
-<p>
-👩‍💻 <strong>Backend Node.js Developer | Fullstack Knowledge | ADS Student | English C2</strong><br>
-Focada em construir soluções eficientes, APIs bem estruturadas e sistemas integrados com tecnologias modernas.
-</p>
+# 👋 Olá! Eu sou Amanda Reis
+
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## 💻 Sobre mim
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
      alt="Ilustração de um computador" 
-     width="380px" 
+     width="330px" 
      align="right" 
      style="margin-left: 20px; margin-top: 10px;"/>
 
-<p align="left"> 
-  Formada como <strong>Técnica em Informática</strong> pela <strong>ETERJ</strong> e atualmente graduanda em <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>UNISUAM</strong>. 🎓
-  <br><br>
-  Minha trajetória é baseada no conceito de <strong>"Aprender Construindo"</strong>: transformo desafios lógicos em soluções claras, funcionais e bem estruturadas. Tenho foco em <strong>backend Java</strong>, com domínio fullstack para criar APIs, integrar sistemas e conectar serviços a interfaces modernas. 🚀
-</p>
+Sou desenvolvedora com foco em **Backend Node.js**, criando APIs REST, sistemas integrados e aplicações estruturadas com boas práticas.
+
+Atuo com **Node.js, Express, Fastify, autenticação, JWT, bancos de dados e arquitetura em camadas**, utilizando conceitos como controllers, services e repositories.
+
+Também possuo conhecimentos fullstack com **React, Next.js, Angular, Vue.js, TypeScript, HTML, CSS e JavaScript**, o que me permite integrar backend e frontend de forma mais completa.
+
+🎓 Técnica em Informática pela **ETERJ**  
+🎓 Graduanda em **Análise e Desenvolvimento de Sistemas** pela **UNISUAM**  
+🌎 Inglês **C2 Proficient/Fluent** pelo CNA
 
 ---
 
-## 🎯 O que estou buscando
-- Estágio em desenvolvimento de software, com foco em <strong>backend node</strong>.
-- Oportunidades presenciais, híbridas ou remotas.
-- Times onde eu possa aprender, contribuir com responsabilidade e evoluir em projetos reais.
+## 🌱 Atuação voluntária
+
+Sou desenvolvedora backend voluntária na **ONG Afro Talents**, contribuindo com soluções digitais para projetos de impacto social, cultural e educacional.
+
+Meu foco é usar tecnologia para gerar impacto positivo real, ajudando iniciativas sociais a ganharem mais estrutura, visibilidade e alcance.
 
 ---
 
-## 🌎 Global Communication
-- **English Level:** C2 (Proficient/Fluent) - CNA.
-- Capaz de atuar em times internacionais e consumir documentação técnica nativa.
+## 🎯 Atualmente
+
+- Aprofundando meus estudos em **Node.js e arquitetura backend**
+- Construindo APIs REST com autenticação, validação e banco de dados
+- Evoluindo em projetos reais com impacto social
+- Buscando oportunidades em desenvolvimento de software com foco em backend
 
 ---
 
-## 🧩 Projetos em destaque
-- **PulseNotify:** sistema de notificações em tempo real com Java, Spring Boot, WebSocket, Redis, Docker e React.
-- **Gerador de Dietas:** aplicação Spring Boot com Java, HTML, CSS, JavaScript, Spring Web e OpenFeign.
-- **API de Controle de Estoque:** API REST com Node.js, Express, MySQL, Swagger, JWT e deploy no Render.
+## 🔗 Portfólio
 
-🔗 **Portfólio:** https://portifolio-amandareis.vercel.app
+[**Acesse meu portfólio**](https://portifolio-amandareis.vercel.app)
 
----
+</td>
 
-## 📊 Minhas Estatísticas de Commit
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaReiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaReiz&layout=compact&langs_count=7&theme=dracula" />
-</p>
+<td width="40%" valign="top">
 
----
+# 💻 Tech Stack
 
-## 💻 Tecnologias e Linguagens
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,python)](https://skillicons.dev)
+### Linguagens
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,java,python,html,css)](https://skillicons.dev)
 
----
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi)](https://skillicons.dev)
 
-### 🚀 Frameworks e Bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=spring,react,nodejs,express,angular,tailwind)](https://skillicons.dev)
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind)](https://skillicons.dev)
 
----
+### Banco de Dados
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,prisma)](https://skillicons.dev)
 
-### 🗄️ Dados, Cache e Infraestrutura
-[![My Skills](https://skillicons.dev/icons?i=mysql,redis,docker)](https://skillicons.dev)
+### Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,vscode,postman,npm)](https://skillicons.dev)
 
 ---
 
-### 🛠️ Ferramentas de Desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,intellij,npm,postman)](https://skillicons.dev)
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=AmandaReiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaReiz&layout=compact&langs_count=7&theme=dracula)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌐 Conecte-se comigo
-<div align="left">
+## 🌐 Conecte-se comigo
+
+<div align="center">
+
 <a href="https://portifolio-amandareis.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfólio-7C3AED.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
 </a>
@@ -80,6 +97,7 @@ Focada em construir soluções eficientes, APIs bem estruturadas e sistemas inte
 <a href="https://www.instagram.com/amandar4is/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
+
 </div>
 
 <br>
@@ -90,4 +108,4 @@ Focada em construir soluções eficientes, APIs bem estruturadas e sistemas inte
   <img src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg" alt="Pacman Graph">
 </picture>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6200ee,100:03dac6"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6200ee,100:03dac6"/>
