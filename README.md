@@ -74,9 +74,12 @@ Meu foco é usar tecnologia para gerar impacto positivo real, ajudando iniciativ
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AmandaReiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaReiz&layout=compact&langs_count=7&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=AmandaReiz&show_icons=true&theme=dracula)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AmandaReiz&theme=dracula)
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmandaReiz&layout=compact&theme=dracula" />
 
 </td>
 </tr>
