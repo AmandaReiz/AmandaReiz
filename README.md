@@ -1,7 +1,7 @@
 # Olá, eu sou Amanda Reis! 👋
 
 <p>
-👩‍💻 <strong>Backend Java Developer | Fullstack Knowledge | ADS Student | English C2</strong><br>
+👩‍💻 <strong>Backend Node.js Developer | Fullstack Knowledge | ADS Student | English C2</strong><br>
 Focada em construir soluções eficientes, APIs bem estruturadas e sistemas integrados com tecnologias modernas.
 </p>
 
@@ -20,7 +20,7 @@ Focada em construir soluções eficientes, APIs bem estruturadas e sistemas inte
 ---
 
 ## 🎯 O que estou buscando
-- Estágio em desenvolvimento de software, com foco em <strong>backend Java</strong>.
+- Estágio em desenvolvimento de software, com foco em <strong>backend node</strong>.
 - Oportunidades presenciais, híbridas ou remotas.
 - Times onde eu possa aprender, contribuir com responsabilidade e evoluir em projetos reais.
 
