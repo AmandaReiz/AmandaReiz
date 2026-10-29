@@ -28,12 +28,9 @@ Também possuo conhecimentos fullstack com **React, Next.js, Angular, Vue.js, Ty
 
 ---
 
-## 🌱 Atuação voluntária
+## 🌱 Atuação 
 
-Sou desenvolvedora backend voluntária na **ONG Afro Talents**, contribuindo com soluções digitais para projetos de impacto social, cultural e educacional.
-
-Meu foco é usar tecnologia para gerar impacto positivo real, ajudando iniciativas sociais a ganharem mais estrutura, visibilidade e alcance.
-
+Sou estágiaria de Suporte/TI no CRCRJ onde atuo na resolução de problemas relacionados software e hardware e atendimento ao usuário
 ---
 
 ## 🎯 Atualmente
